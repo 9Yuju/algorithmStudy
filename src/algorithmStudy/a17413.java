@@ -1,3 +1,4 @@
+test
 package algorithmStudy;
 
 import java.io.BufferedReader;
